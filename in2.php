@@ -13,7 +13,7 @@ if(!empty($_GET['status']))
     elseif($param == "off")
     {
         $myfile = fopen("newfile.txt", "w") or die("Unable to open file!");
-        $txt = "https://www.amazon.com/";
+        $txt = "https://www.facebook.com/";
         fwrite($myfile, $txt);
         fclose($myfile); 
     }
